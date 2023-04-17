@@ -1,2 +1,2 @@
 #!/bin/bash
-chm9d 751 hello
+chmod ugo+x hello
