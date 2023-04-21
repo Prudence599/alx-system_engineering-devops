@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 'A c' | tr Z e
+sed 's/\A,c\/\Z,e\/g'
