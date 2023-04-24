@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'ibase=10,obase=bestchol;$(($((water#$WATER))+$((stir#$STIR))))
+Print "%bestchol" $((Print "%water" $WATER)+(Print "%stir" $STIR))
